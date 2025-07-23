@@ -6,7 +6,7 @@ from playwright.sync_api import sync_playwright
 EMAIL = "[Your Mail]"
 PASSWORD = "[Password]"
 
-
+#Custmize depanded on your path
 DOWNLOAD_DIR = "/Users/ahmedel-moneim/sellMyApp/downloaded/"
 
 def sanitize_filename(name):
